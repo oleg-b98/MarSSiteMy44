@@ -1,0 +1,43 @@
+.container{
+    width: 1450px;
+    min-height: 500px;
+    background-color: beige;
+    margin: 0 auto;
+}
+/*  HEADER */
+header{
+    width: 1450px;
+    height: 100px;
+    background-color: rgb(167, 167, 117);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header img{
+    width: 100px;
+    height: 20px;
+}
+header ul{
+ display: flex;
+    list-style-type: none;
+    gap: 15px;
+    font-size: 24px;
+}
+header li{
+text-decoration: none;
+}
+
+
+/* MAIN */
+main{
+    width: 1450px;
+    min-height: 500px;
+    background-color: rgb(121, 121, 80);
+   
+}
+
+
+
+footer{
+
+}
